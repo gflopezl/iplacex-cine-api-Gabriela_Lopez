@@ -1,6 +1,6 @@
 import { MongoClient, ServerApiVersion } from "mongodb"
 
-const uri = 'mongodb+srv://ev3_express:50il5P4gayECGOPP@cluster-express.ku50l.mongodb.net/?retryWrites=true&w=majority&appName=cluster-express'
+const uri = 'mongodb+srv://eva-u3-express:AwCMpBUaWHjhs4eD@eva-u3-express.cxz61.mongodb.net/?retryWrites=true&w=majority&appName=eva-u3-express'
 
 const client = new MongoClient(uri, {
     serverApi: {
